@@ -45,4 +45,4 @@ The data spans from offset `-length` till EOF in the input file.
 
 ## License
 
-This project is licensed under GPLv3. Please see [`LICENSE`](./LICENSE) for the full license text.
+This project is licensed under GPL-3.0-only. Please see [`LICENSE`](./LICENSE) for the full license text.
