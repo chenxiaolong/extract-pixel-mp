@@ -1,3 +1,5 @@
+**2026-09-09 update**: This project is no longer in development because I've switched to [PhotoQt](https://photoqt.org/), which can read Pixel motion photos natively. However, extract-pixel-mp should continue working indefinitely without any updates, given how simple the file format is.
+
 # extract-pixel-mp
 
 A simple tool to extract the embedded video from Google Pixel `*.MP.jpg` motion photos (also known as "top shot" photos).
